@@ -3,7 +3,7 @@
     <style>
       h1 {
         text-align: center;
-        color: blueviolet;
+        color: orangered;
       }
 
       h2 {
